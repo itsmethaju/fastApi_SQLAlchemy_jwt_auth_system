@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/FastAPI_SQLAlchemy_JWT_Auth_System.git
+git clone https://github.com/itsmethaju/FastAPI_SQLAlchemy_JWT_Auth_System.git
 cd FastAPI_SQLAlchemy_JWT_Auth_System
 Install the dependencies:
 
